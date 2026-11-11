@@ -1,0 +1,13 @@
+{
+  "ckpt": "runs\\smoke\\final.pt",
+  "channel": "awgn",
+  "images": 3,
+  "ap": {
+    "20": {
+      "tiny": 0.0,
+      "small": 0.0,
+      "large": 0.0,
+      "all": 0.0
+    }
+  }
+}
